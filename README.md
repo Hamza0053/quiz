@@ -7,5 +7,5 @@
    - Configure a .gitignore file to exclude specific files and directories from being tracked by Git. Ensure that temporary files, log files, and environment-specific configurations are ignored.
    - You have been working on a branch named feature-login. After making several changes and committing them, you realize that the base branch main has been updated by your team. Integrate the latest changes from main into your feature-login branch, resolve any conflicts, and ensure the branch is up-to-date.
 
-   <code <div>hello</div>>
+   <code cout<<"hello" >
 
